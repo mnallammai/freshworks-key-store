@@ -1,0 +1,1 @@
+# freshworks-key-store
